@@ -6,4 +6,4 @@ seaborn
 matplotlib
 plotly
 joblib
-statsmodel
+statsmodels
